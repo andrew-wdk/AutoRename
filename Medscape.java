@@ -1,3 +1,7 @@
+/*
+ * This code was writen to rename 2452 XML files using names fount at a spesific position in each file.
+ */
+
 package medscape;
 
 import java.io.BufferedReader;
